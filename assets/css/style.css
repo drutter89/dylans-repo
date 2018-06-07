@@ -14,6 +14,11 @@ html {
   min-height: 100%;
 }
 
+.github {
+  height: 350px;
+  width: 350px;
+}
+
 /* add space for fixed nav */
 
 main {
@@ -56,6 +61,11 @@ main {
 .navbar {
   background: white;
   border: none;
+}
+
+.img-fluid port-image {
+  width: 350 px;
+  height: 300px;
 }
 
 /* media query for nav background color change */
