@@ -64,7 +64,7 @@ main {
   border: none;
 }
 
-.img-fluid port-image {
+#thumb {
   width: 300 px;
   height: 300 px;
 }
