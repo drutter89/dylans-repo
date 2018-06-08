@@ -14,11 +14,6 @@ html {
   min-height: 100%;
 }
 
-.github {
-  height: 350px;
-  width: 350px;
-}
-
 /* add space for fixed nav */
 
 main {
@@ -52,6 +47,12 @@ main {
   background: #4aaaa5;
 }
 
+#github {
+  width: 350px;
+  height: 350px;
+  visibility: visible;
+}
+
 /* override bootstrap hover color and border */
 
 .navbar-default .navbar-nav>li>a:hover {
@@ -64,8 +65,8 @@ main {
 }
 
 .img-fluid port-image {
-  width: 350 px;
-  height: 300px;
+  width: 300 px;
+  height: 300 px;
 }
 
 /* media query for nav background color change */
