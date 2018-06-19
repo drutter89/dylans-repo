@@ -55,12 +55,6 @@ main {
   background: #4aaaa5;
 }
 
-#github {
-  width: 350px;
-  height: 350px;
-  visibility: visible;
-}
-
 /* override bootstrap hover color and border */
 
 .navbar-default .navbar-nav>li>a:hover {
